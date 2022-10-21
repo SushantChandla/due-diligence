@@ -9,6 +9,7 @@ matplotlib = "*"
 seaborn = "*"
 numpy = "*"
 sklearn = "*"
+django = "*"
 
 [dev-packages]
 
