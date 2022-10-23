@@ -11,6 +11,7 @@ numpy = "*"
 sklearn = "*"
 django = "*"
 pygments = "*"
+xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"

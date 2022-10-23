@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "433571c25d5e23d8830a65be6ca86a6664399527b54f608393e8f11a947f3496"
+            "sha256": "83fdc91b0d73083922f6ec02dbe1bbef7e063a92665f5b19626619899d2cfd08"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -570,9 +570,29 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5' and python_version < '4'",
             "version": "==1.26.12"
+        },
+        "xgboost": {
+            "hashes": [
+                "sha256:200484dba3bc18830b0c9c41a2ee5754268dd58cdad122b9414e1081f1c25d9f",
+                "sha256:334f9eb0dd9a54b7f873a5d4eb44e2a5371fcc0f15695fa733488949cba7012f",
+                "sha256:43a4fdb5a2c05b1af1468242f3f1448f0f5826e90383e7096844ac24e017ee66",
+                "sha256:489c8e3ef59f68ed7d9ff5b49667a42cc4cb22911240f33b1ac5a4dcc77f4182",
+                "sha256:ef7483c7b1c9ebebd92f242d20ed5c2361b0e4a5ad974fc6ebdd072d3725bf64",
+                "sha256:f3a2bd1a00aa44e882f816e3c537676446a4f0179c4aa4fdc5c3354705c7c23b"
+            ],
+            "index": "pypi",
+            "version": "==1.7.0"
         }
     },
     "develop": {
+        "appnope": {
+            "hashes": [
+                "sha256:02bd91c4de869fbb1e1c50aafc4098827a7a54ab2f39d9dcba6c9547ed920e24",
+                "sha256:265a455292d0bd8a72453494fa24df5a11eb18373a60c7c0430889f22548605e"
+            ],
+            "markers": "platform_system == 'Darwin'",
+            "version": "==0.1.3"
+        },
         "asttokens": {
             "hashes": [
                 "sha256:1b28ed85e254b724439afc783d4bee767f780b936c3fe8b3275332f42cf5f561",
