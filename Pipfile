@@ -9,12 +9,12 @@ matplotlib = "*"
 seaborn = "*"
 numpy = "*"
 sklearn = "*"
-django = "*"
 pygments = "*"
 xgboost = "*"
 
 [dev-packages]
 ipykernel = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.10"
